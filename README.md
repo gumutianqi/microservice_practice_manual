@@ -8,7 +8,7 @@
 
 本书所有内容皆围绕 SpringBoot 、SpringCloud 展开微服务实践；
 
-当前 SpringBoot 最新版本为：`1.5.6`版本，Maven 依赖如下：
+当前 SpringBoot 最新版本为：`1.5.8`版本，Maven 依赖如下：
 
 ```
 <parent>
